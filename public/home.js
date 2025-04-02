@@ -117,7 +117,15 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>You’re welcome to Official verified financial Management, how can we help you and who gave you our contact ? and do as well  to follow the instructions properly..</p>
+            <p>Welcome to ZenShield Escrow – Your Trusted Partner in Secure Transactions
+
+At ZenShield Escrow, we believe trust should never be a question—it should be a guarantee. That’s why we provide a safe, transparent, and hassle-free way to trade online. Whether you’re buying, selling, or exchanging assets, our escrow system ensures that your funds stay protected until both parties fulfill their agreements.
+
+No more risks. No more doubts. Just secure transactions, smooth settlements, and total peace of mind.
+
+Join a smarter way to trade—where security meets simplicity.
+
+Start trading with confidence today!</p>
           </div>
         `
         break
